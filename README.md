@@ -40,15 +40,6 @@
 
 ---
 
-## 📊 GitHub Analytics Cards
-### 1. Overall Profile Stats
-
-
-### 2. Most Used Languages
-
-
----
-
 ## 👀 Profile Visitor Counter
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Triangle-8837&label=Profile%20Visitors&color=0e75b6&style=flat" alt="visitor statistics"/>
