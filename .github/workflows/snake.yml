@@ -1,29 +1,25 @@
-name: Generate Snake
+name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-  push:
-    branches: [ main ]
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-
-      - name: Generate contribution snake svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push generated files to repo
-        uses: ad-m/github-push-action@master
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - name: Upload & Commit files
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          branch: main
-          directory: dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
