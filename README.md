@@ -64,7 +64,7 @@
 
 > Personal Motto: Make small progress every day, keep committing and keep improving ✨
 
-## 🐍 GitHub Contribution Snake Animation
+## 🉑 Actions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/snake.svg">
