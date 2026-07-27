@@ -62,3 +62,10 @@
 3. Deploy static pages via GitHub Pages
 
 > Personal Motto: Make small progress every day, keep committing and keep improving ✨
+
+## 🐍 My Contribution Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/snake.svg">
+  <img alt="GitHub Snake" width="700">
+</picture>
