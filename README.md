@@ -59,7 +59,7 @@
 
 ## 🐍 Contribution Snake Animation
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
-  <img width="750" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Triangle-8837/github-snake/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Triangle-8837/github-snake/blob/output/github-contribution-grid-snake.svg">
+  <img align="center" width="750" alt="GitHub Contribution Snake" src="https://github.com/Triangle-8837/github-snake/blob/output/github-contribution-grid-snake.svg">
 </picture>
