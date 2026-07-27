@@ -1,0 +1,26 @@
+name: Generate Snake
+on:
+  # 每天自动更新一次
+  schedule:
+    - cron: "0 0 * * *"
+  # 手动推送文件也触发更新
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: 生成贪吃蛇SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: 推送生成的图片到仓库
+        uses: peaceiris/actions-commit-push@v4
+        with:
+          branch: main
+          folder: dist
