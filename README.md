@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Robert Wang
+### Basic Info
+- GitHub ID：Triangle-8837
+- A newbie learning Git & GitHub, front-end enthusiast
+- Currently learning JavaScript, planning to touch HTML/CSS/Vue later
 
-<!--
-**Triangle-8837/Triangle-8837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📚 Learning Progress
+✅ Learned basic Git commands:
+`git add` / `git commit` / `git push` / `git pull`
+✅ Created first repository: Learn-Github-demo
+🔜 Next goal: Build a simple static personal webpage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Something About Me
+- Motto: Keep small progress every day
+- Hobby: Coding, browsing technical documents, trying new open source tools
+- Contact: jcnzybwj2c@privaterelay.appleid.com
