@@ -58,8 +58,7 @@
 ---
 
 ## 🐍 Contribution Snake Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Triangle-8837/github-snake/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Triangle-8837/github-snake/blob/output/github-contribution-grid-snake.svg">
-  <img align="center" width="750" alt="GitHub Contribution Snake" src="https://github.com/Triangle-8837/github-snake/blob/output/github-contribution-grid-snake.svg">
-</picture>
+## 🐍 Contribution Snake Animation
+<div align="center">
+<img width="750" src="https://github-readme-snake.vercel.app/api?username=Triangle-8837" alt="GitHub Contribution Snake">
+</div>
