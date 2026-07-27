@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
 </div>
 
 ### Learning Status Tags
@@ -54,7 +55,6 @@
 ### ✅ Completed Tasks
 - Master basic Git commands: `git add`, `git commit`, `git push`, `git pull`
 - Created my first repository: `Learn-Github-demo`
-- Learned how to customize GitHub profile README page
 
 ### 🔜 Short-term Goals
 1. Consolidate fundamental JavaScript knowledge
