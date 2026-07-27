@@ -59,5 +59,9 @@
 
 ## 🐍 Contribution Snake Animation
 <div align="center">
-  <img width="750" alt="Contribution Snake" src="https://github-readme-snake.vercel.app/api?username=Triangle-8837&theme=default" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img width="750" alt="GitHub Contribution Snake">
+</picture>
 </div>
