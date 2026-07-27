@@ -1,11 +1,11 @@
-<!-- 动态打字标题 链接整行不换行 -->
+<!-- 动态打字标题 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Robert+Wang;GitHub+Beginner;Frontend+Learner;Keep+Learning+Every+Day&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7" alt="typing animation" />
 </p>
 
-<!-- 头像，上传avatar.jpg到仓库根目录后自动生效 -->
+<!-- 头像：仓库根目录上传 avatar.jpg 即可显示 -->
 <div align="center">
-  <img width="150" height="150" src="./avatar.jpg" alt="Avatar" style="border-radius:50%;" />
+  <img width="150" height="150" src="./avatar.jpg" alt="Avatar" style="border-radius:50%;object-fit:cover;" />
 </div>
 
 <h1 align="center">Hello, I'm Robert Wang</h1>
@@ -62,6 +62,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img width="750" alt="GitHub Contribution Snake">
+  <img width="750" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 </div>
