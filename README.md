@@ -56,11 +56,6 @@
 ---
 
 ## 📝 Learning Progress & Plans
-### ✅ Completed Tasks
-- Master basic Git commands: `git add`, `git commit`, `git push`, `git pull`
-- Created my first repository: `Learn-Github-demo`
-- Learned how to customize GitHub profile README page
-
 ### 🔜 Short-term Goals
 1. Consolidate fundamental JavaScript knowledge
 2. Build simple static websites manually
