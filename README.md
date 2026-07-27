@@ -1,13 +1,14 @@
-<!-- 动态打字标题 -->
+<!-- 动态打字标题 链接整行不换行 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Robert+Wang;GitHub+Beginner;Frontend+Learner;Keep+Learning+Every+Day&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Robert+Wang;GitHub+Beginner;Frontend+Learner;Keep+Learning+Every+Day&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7" alt="typing animation">
 </p>
 
+<!-- 头像，上传avatar.jpg后自动生效 -->
 <div align="center">
   <img width="150" height="150" src="./avatar.jpg" alt="Avatar" style="border-radius:50%;">
 </div>
 
-<h1 align="center"> Hello, I'm Robert Wang</h1>
+<h1 align="center">Hello, I'm Robert Wang</h1>
 <h3 align="center">GitHub Beginner | Frontend Learner | Coding Enthusiast</h3>
 
 ---
