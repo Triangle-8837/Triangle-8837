@@ -56,3 +56,10 @@
 > Personal Motto: To choose time is to save time.
 
 ---
+
+## 🐍 Contribution Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/github-contribution-grid-snake.svg">
+  <img align="center" width="750" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/github-contribution-grid-snake.svg">
+</picture>
