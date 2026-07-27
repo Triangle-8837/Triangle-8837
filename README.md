@@ -62,7 +62,7 @@
 2. Build simple static websites manually
 3. Deploy static pages via GitHub Pages
 
-> Personal Motto: Make small progress every day, keep committing and keep improving ✨
+> Personal Motto: To chose time is to save time.
 
 ---
 
