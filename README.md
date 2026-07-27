@@ -1,4 +1,8 @@
-<!-- Avatar: Upload your avatar image named avatar.jpg to this repo -->
+<!-- 动态打字标题 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Robert+Wang;GitHub+Beginner;Frontend+Learner;Keep+Learning+Every+Day&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7">
+</p>
+
 <div align="center">
   <img width="150" height="150" src="./avatar.jpg" alt="Avatar" style="border-radius:50%;">
 </div>
@@ -13,15 +17,6 @@
 - Pronouns: he/him
 - Joined GitHub: 3 weeks ago
 - Contact Email: jcnzybwj2c@privaterelay.appleid.com
-
----
-
-## 🐍 My Contribution Snake Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Triangle-8837/Triangle-8837/output/snake.svg">
-  <img alt="GitHub Snake" width="700">
-</picture>
 
 ---
 
@@ -64,6 +59,7 @@
 ### ✅ Completed Tasks
 - Master basic Git commands: `git add`, `git commit`, `git push`, `git pull`
 - Created my first repository: `Learn-Github-demo`
+- Learned how to customize GitHub profile README page
 
 ### 🔜 Short-term Goals
 1. Consolidate fundamental JavaScript knowledge
