@@ -7,7 +7,7 @@
   <img width="150" height="150" src="./avatar.jpg" alt="Avatar" style="border-radius:50%;">
 </div>
 
-<h1 align="center"> 👌Hello, I'm Robert Wang</h1>
+<h1 align="center"> Hello, I'm Robert Wang</h1>
 <h3 align="center">GitHub Beginner | Frontend Learner | Coding Enthusiast</h3>
 
 ---
